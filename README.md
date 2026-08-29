@@ -1,7 +1,3 @@
-Here it is with the spacing cleaned up:
-
----
-
 **Chief of Staff**
 
 Location: In-person, San Francisco Bay Area
